@@ -1,0 +1,10 @@
+.env39
+.venv
+datasets
+saved_model
+tfjs_model
+tflite_model
+best_model.h5
+submissionFiqi2.zip
+tfjs_model.zip
+tflite_model.zip
